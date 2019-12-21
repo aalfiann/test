@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Manganeet</title>
+    <link>https://manganeet.com/tags/</link>
+    <description>Recent content in Tags on Manganeet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://manganeet.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fantasy</title>
+      <link>https://manganeet.com/tags/fantasy/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://manganeet.com/tags/fantasy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isekai</title>
+      <link>https://manganeet.com/tags/isekai/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://manganeet.com/tags/isekai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mystery</title>
+      <link>https://manganeet.com/tags/mystery/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://manganeet.com/tags/mystery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychological</title>
+      <link>https://manganeet.com/tags/psychological/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://manganeet.com/tags/psychological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romance</title>
+      <link>https://manganeet.com/tags/romance/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://manganeet.com/tags/romance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seinen</title>
+      <link>https://manganeet.com/tags/seinen/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://manganeet.com/tags/seinen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
