@@ -229,7 +229,7 @@ a:hover {
 }
 
 .bg-primary {
-	background: #00aaa1!important
+	background: #161616!important
 }
 
 .text-primary {
@@ -574,14 +574,14 @@ button.bg-primary:hover {
 .social-links li a {
 	height: 35px;
 	width: 35px;
-	background: #00aaa1;
+	background: #161616;
 	color: #fff;
 	display: block;
 	line-height: 35px
 }
 
 .social-links li a:hover {
-	color: #fff
+	color: #00aaa1
 }
 
 .pagination {
