@@ -33,6 +33,7 @@ function executeSearch(searchQuery){
     var result = fuse.search(searchQuery);
     console.log({"matches":result});
     if(result.length > 0){
+      result = result.splice(0, 100);
       populateResults(result);
     }else{
       $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://user-images.githubusercontent.com/37659754/64060567-7cece400-cbf0-11e9-9cf9-abac3543ec1f.png\"><h3>No Search Found</h3></div>");
