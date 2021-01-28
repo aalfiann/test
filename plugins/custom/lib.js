@@ -136,3 +136,50 @@ if(document.getElementById('sidebar-widget')) {
   //     <img class="mb-2 lazyload" data-src="https://i.imgur.com/za2th8q.gif" width="300" height="100" border="0" onclick="window.open('https://t.grtyh.com/921j7fx9kw?url_id=0&aff_id=94964&offer_id=5469&bo=3511,3512,3521,3522&file_id=300547')" />
   //   </div>`);
   }
+
+  var z1 = [
+    'https://i.imgur.com/jlsuK7h.gif',
+    'https://i.imgur.com/OviMzSp.gif',
+    'https://i.imgur.com/WfDsE6u.gif',
+    'https://i.imgur.com/xzhiT9r.gif',
+    'https://i.imgur.com/m6TPnQE.gif',
+    'https://i.imgur.com/0vEcDHa.gif'
+  ];
+  
+  var z2 = [
+    'https://i.imgur.com/SucrA8q.gif',
+    'https://i.imgur.com/Ohn543u.gif',
+    'https://i.imgur.com/eEVLSl1.gif',
+    'https://i.imgur.com/PBZrm9r.gif',
+    'https://i.imgur.com/27mBXMO.gif',
+    'https://i.imgur.com/DA5iugB.gif'
+  ];
+  
+  var z3 = [
+    'https://i.imgur.com/mjH3HvH.gif',
+    'https://i.imgur.com/ZyDN6e8.gif',
+    'https://i.imgur.com/MK3zNnY.gif',
+    'https://i.imgur.com/xAxgke3.gif',
+    'https://i.imgur.com/XyzfP3n.gif',
+    'https://i.imgur.com/DxavF3g.gif'
+  ];
+  
+  var linktarget = "https://datinghererightnow13.com/?u=z8lp60t&o=tfda7xz";
+  
+  function randomItem(maxNum) {
+      return Math.floor(Math.random()*maxNum);
+  }
+  
+  function generateADV(el,link) {
+    var img = document.createElement('img'); 
+    img.setAttribute('onclick','window.open(\''+linktarget+'\')');
+    img.setAttribute('target','_blank');
+    img.setAttribute('class','lazyload');
+    img.setAttribute('style','width:100%;max-width:300px');
+    img.setAttribute('data-src',link);
+    document.getElementById(el).appendChild(img);
+  }
+  
+  if(document.getElementById('zone-1')) generateADV('zone-1',z1[randomItem(6)]);
+  if(document.getElementById('zone-2')) generateADV('zone-2',z2[randomItem(6)]);
+  if(document.getElementById('zone-3')) generateADV('zone-3',z3[randomItem(6)]);
