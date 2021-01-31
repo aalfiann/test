@@ -164,7 +164,8 @@ if(document.getElementById('sidebar-widget')) {
     'https://i.imgur.com/DxavF3g.gif'
   ];
   
-  var linktarget = "https://datinghererightnow13.com/?u=z8lp60t&o=tfda7xz";
+  var linktarget = "https://perfect-datinghere1.com/?u=z8lp60t&o=tfda7xz";
+  
   
   function randomItem(maxNum) {
       return Math.floor(Math.random()*maxNum);
