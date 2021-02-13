@@ -45,7 +45,15 @@ if(document.getElementById('sidebar-widget')) {
   
   if(document.getElementById('ads-list-top')) {
       var div = $('#ads-list-top');
-      div.hide();
+      div.append(`<div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>`);
   //     div.append(`<div class="col-lg-4 col-md-6">
   //     <img class="mb-2 lazyload" data-src="https://i.imgur.com/qgGCfim.gif" width="300" height="100" border="0" onclick="window.open('https://t.grtyi.com/i8td5w27b4?url_id=0&aff_id=94964&offer_id=6684&bo=3511,3512,3521,3522&file_id=390834')" />
   //   </div>
@@ -59,7 +67,15 @@ if(document.getElementById('sidebar-widget')) {
   
   if(document.getElementById('ads-list-bottom')) {
       var div = $('#ads-list-bottom');
-      div.hide();
+      div.append(`<div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>`);
   //     div.append(`<div class="col-lg-4 col-md-6">
   //     <img class="mb-2 lazyload" data-src="https://i.imgur.com/qgGCfim.gif" width="300" height="100" border="0" onclick="window.open('https://t.grtyi.com/i8td5w27b4?url_id=0&aff_id=94964&offer_id=6684&bo=3511,3512,3521,3522&file_id=390834')" />
   //   </div>
@@ -111,7 +127,15 @@ if(document.getElementById('sidebar-widget')) {
   
   if(document.getElementById('ads-index-top')) {
       var div = $('#ads-index-top');
-      div.hide();
+      div.append(`<div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>`);
   //     div.append(`<div class="col-lg-4 col-md-6">
   //     <img class="mb-2 lazyload" data-src="https://i.imgur.com/qgGCfim.gif" width="300" height="100" border="0" onclick="window.open('https://t.grtyi.com/i8td5w27b4?url_id=0&aff_id=94964&offer_id=6684&bo=3511,3512,3521,3522&file_id=390834')" />
   //   </div>
@@ -125,7 +149,15 @@ if(document.getElementById('sidebar-widget')) {
   
   if(document.getElementById('ads-index-bottom')) {
       var div = $('#ads-index-bottom');
-      div.hide();
+      div.append(`<div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <iframe class="lazyload mb-2" data-src="https://imgfo.com/featured-mbox-embed-18.html" width="300px" height="100px" frameborder="0" scrolling="no"></iframe>
+      </div>`);
   //     div.append(`<div class="col-lg-4 col-md-6">
   //     <img class="mb-2 lazyload" data-src="https://i.imgur.com/aWjCEoT.gif" width="300" height="100" border="0" onclick="window.open('https://t.grtyh.com/r9kvcg716o?url_id=0&aff_id=94964&offer_id=5471&bo=3511,3512,3521,3522&file_id=300517')" />
   //   </div>
